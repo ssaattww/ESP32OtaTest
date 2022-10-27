@@ -1,5 +1,5 @@
 {
     "type": "esp32-fota-http",
     "version": "0.0.1",
-    "url": "https://ssaattww.github.io/ESP32OtaTest/test.bin"
+    "url": "https://ssaattww.github.io/ESP32OtaTest/test.bin?aaa"
 }
